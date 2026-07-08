@@ -157,7 +157,7 @@ This project improved my CAD modeling skills and provided valuable hands-on expe
 
 This repository contains:
 
-- **Report.pdf** – Complete project report.
+- **Preliminary Mechanical Design of a Simple Robotic Dog Report.pdf** – Complete project report.
 - **Tinkercad Design** – Exported 3D model of the robotic dog.
 - **Images/** – Images of the complete robot and leg design.
 - **README.md** – Project documentation.
@@ -170,7 +170,7 @@ This repository contains:
 Robotic-Dog/
 │
 ├── README.md
-├── Report.pdf
+├── Preliminary Mechanical Design of a Simple Robotic Dog Report.pdf
 ├── Tinkercad_Design.stl
 └── Images/
     ├── Complete_Design.png
