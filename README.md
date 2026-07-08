@@ -174,7 +174,7 @@ Robotic-Dog/
 ├── Tinkercad_Design.stl
 └── Images/
     ├── Complete_Design.png
-    └── Robot_Leg.png
+    └── Robot_Leg.jpg
 ```
 
 ---
