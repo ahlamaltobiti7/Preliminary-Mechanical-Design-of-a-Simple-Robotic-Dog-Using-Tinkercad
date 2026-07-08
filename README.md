@@ -55,11 +55,11 @@ The design was created using simple geometric shapes available in Tinkercad, res
 
 ### Complete Robot Design
 
-![Complete Robot](Images/Complete_Design.png)
+![Complete Robot](Complete_Design.png)
 
 ### Robot Leg Design
 
-![Robot Leg](Images/Robot_Leg.jpg)
+![Robot Leg](Robot_Leg.jpg)
 
 ---
 
