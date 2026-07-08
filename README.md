@@ -1,4 +1,4 @@
-# 🐕 Mechanical Design of a Simple Robotic Dog Using Tinkercad
+# 🐕 Preliminary Mechanical Design of a Simple Robotic Dog Using Tinkercad
 
 ## Overview
 
