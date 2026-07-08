@@ -59,7 +59,7 @@ The design was created using simple geometric shapes available in Tinkercad, res
 
 ### Robot Leg Design
 
-![Robot Leg](Images/Robot_Leg.png)
+![Robot Leg](Images/Robot_Leg.jpg)
 
 ---
 
