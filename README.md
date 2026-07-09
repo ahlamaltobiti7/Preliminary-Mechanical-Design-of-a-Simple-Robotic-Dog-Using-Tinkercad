@@ -167,7 +167,7 @@ This repository contains:
 ## Repository Structure
 
 ```text
-Robotic-Dog/
+Preliminary Mechanical Design of a Simple Robotic Dog Using Tinkercad/
 │
 ├── README.md
 ├── Preliminary Mechanical Design of a Simple Robotic Dog Report.pdf
